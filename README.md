@@ -1,3 +1,5 @@
 Hello!! This is a Pure Physics based puzzle game, Download the zip file and extract, then run the exe inside the extracted folder to play.
 
+None of these puzzles require you to look around for some hidden item, and nothing that is placed in the level is useless. The puzzles are derived purely from the physics of the game, so theoretically you could jump to the last level and solve it by just messing around. I would recommend you don't do that though the last level is pretty difficult
+
 None of these solutions are pixel perfect. If you find the correct strategy, most of them are not too difficult to execute. Don't continuously try something incredibly difficult; chances are there's an easier way to do it or your solution is incorrect.
