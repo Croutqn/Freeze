@@ -1,5 +1,7 @@
 Hello!! This is a Pure Physics based puzzle game, Download the zip file and extract, then run the exe inside the extracted folder to play.
 
+This is the difficult version; there will be a note in one of the levels to skip it if you want the last level to be as difficult as possilble.
+
 None of these puzzles require you to look around for some hidden item, and nothing that is placed in any level is useless. The puzzles are derived purely from the physics of the game, so theoretically you could jump to the last level and solve it by just messing around. I would recommend you don't do that though, as the last level is pretty difficult.
 
 None of these solutions are pixel perfect. If you find the correct strategy, most of them are not too difficult to execute. Don't continuously try something incredibly difficult; chances are there's an easier way to do it or your solution is incorrect. Some of them do require some decently challenging timing, but nothing that should take you more than a few tries. With the optimal strategy, I was able to beat this game with a trackpad that doesn't respond like 30% of the time, so take that into account.
